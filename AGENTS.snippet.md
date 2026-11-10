@@ -1,0 +1,3 @@
+# Universal deliverable quality gate (optional global AGENTS.md snippet)
+
+For any user-requested deliverable or substantial revision (writing, slides, reports, sheets, images, UI, apps, code): invoke the `universal-anti-slop` skill after the first draft and before final delivery. Use its common audit and the relevant medium references, preserve user intent and facts, fix concrete issues, and verify the resulting artifact when tools allow. For long or important deliverables, use deep mode; for small revisions, use quick mode. Do not invoke for everyday factual Q&A. Installing a skill alone does not guarantee invocation; if it was not automatically loaded, read its SKILL.md explicitly.
